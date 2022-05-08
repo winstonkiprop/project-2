@@ -15,9 +15,10 @@
      margin-bottom: 3.1cm;
  }
  .nav{
-    
-     display: flex;
-     justify-content: space-between;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-right: 0cm;
      
  }
  .swahili{
@@ -33,4 +34,11 @@
      float: right;
      margin: 0%;
      margin-bottom: 30px;
+     justify-content: space-between;
+ }
+ .btnn{
+     background-color: yellow;
+ }
+ .property{
+     width: 500px;
  }
