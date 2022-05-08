@@ -26,4 +26,11 @@
      padding: 1cm;
  }
 
- 
+ .intro{
+     display: inline-block;
+     padding: 10px;
+     color: white;
+     float: right;
+     margin: 0%;
+     margin-bottom: 30px;
+ }
