@@ -12,4 +12,4 @@
 ## Support and contact details
 {if you run into issues using this app,feel free to contact me at winstonekip50@gmail.com.}
 ### License
-*it is an open source document
+*it is an open source document and hence available
