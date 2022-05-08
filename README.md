@@ -9,3 +9,7 @@
 {theres absolutely no bugs in this app }
 ## Technologies Used
 {basically i used html to create structure and used css for styling.}
+## Support and contact details
+{if you run into issues using this app,feel free to contact me at winstonekip50@gmail.com.}
+### License
+*
