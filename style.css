@@ -25,6 +25,7 @@
      background-color: #000;
      color: white;
      padding: 1cm;
+     margin: 0%;
  }
 
  .intro{
@@ -45,7 +46,6 @@
  .way{   background-color: white;
     padding: 3cm;
     border-color: white;
-    border-radius: 10px;
-    
+    border-radius: 10px
      
  }
