@@ -7,7 +7,7 @@
 
 }
 body{
-    margin: 10px;
+    margin: 20px;
     font-family: serif;
     padding: 0;
     
@@ -18,11 +18,12 @@ body{
     align-items: flex-end;
 padding: 10px;
 background-image: url(./images/moving\ 1.png);
-margin-bottom: 0px;
+margin-bottom: 10px;
 margin-top: auto;
-width: 900px;
+width: 850px;
 height:600px;
-background-size: 1000px;
+background-size: 900px;
+opacity: 1.1;
 
 }
 .navv{
@@ -36,19 +37,7 @@ background-size: 1000px;
    margin-right: 50px;
    font-size: 10px;
 
-}
-.middle{
-    text-align: justify;
-    font-size: medium;
-}
-.find{
-    color: yellow;
-    font-size: 50px;
-    float: left;
-    text-align:left;
-    margin-left: 10px;
-    margin-top: 100px;
-    margin-bottom: 0%;
+text-align: justify;
 }
 .roof{margin: 200px;
     text-align: left;
@@ -59,45 +48,61 @@ background-size: 1000px;
     font-size: medium;
     
 }
+.find{
+    color: yellow;
+    font-size: 50px;
+    float: left;
+    text-align:left;
+    margin-left: 10px;
+    margin-top: 100px;
+    margin-bottom: 0%;
+}
 #home{
     color: white;
+    text-decoration: none;
 }
 #movers{
     color: white;
+    text-decoration: none;
 }
 #cont{
     color: white;
+    text-decoration: none;
 }
 #about{
     color: white;
+    text-decoration: none;
 }
 .but{
     background-color: yellow;
-    color: black;
-}
-#btn{
-    background-color: black;
-    color: yellow;
-}
-.wakora{
-    display: flex;
-    margin-left: 10px;
-    margin-top: 40px;
-}
-.word{
-    margin-left: 20px;
-    margin-top: 60px;
-    font-size: 20px;
-}
-.btn3{background-color: black;
-    color: yellow;
-    margin-bottom: 0px;
-    margin: auto;
-    margin: top 100px;
-    border-radius: 0.4em;
-    font-size: 25px;
-
-}
+    color: black;}
+    #btn{
+        background-color: black;
+        color: yellow;
+    }
+    .wakora{
+        display: flex;
+        margin-left: 10px;
+        margin-top: 40px;
+        float: left;
+        background-color: white;
+    }
+    .word{
+        margin-left: 20px;
+        margin-top: 60px;
+        font-size: 20px;
+    }
+    .btn3{background-color: black;
+        color: yellow;
+        margin-bottom: 0px;
+        margin: auto;
+        margin: top 100px;
+        border-radius: 0.4em;
+        font-size: 25px;
+    
+    }
+    
+   
 .imageone{
     display: flex;
     
@@ -218,3 +223,24 @@ background-size: 1000px;
     float: left;
     font-size: 2px;
 }
+#partitions{
+    display: flex;
+    justify-content: space-between;
+    
+}
+#kisumu{background-color:white;
+    padding-left: 10px;
+    padding-right: 0px;
+    padding-top: 10px;
+    margin: 0.5px 0.5px 0.5px 0.5px;
+    width: 60%;
+    height: 40%;
+    display: flex;
+}
+ .container2{
+     background-color: white;
+     padding-top: 600px;
+ }
+ .text{
+    margin-top: 0px;
+ }
